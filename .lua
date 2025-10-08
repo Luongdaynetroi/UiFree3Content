@@ -1,4 +1,4 @@
--- Lâm Vĩ Misc UI™ v1.0 (Loadstring-ready)
+
 -- Features:
 --  - Toggle black circular button (left middle)
 --  - Glassy gray translucent main panel, draggable
@@ -80,7 +80,7 @@ local header = new("TextLabel", {
     Size = UDim2.new(1,-24,0,36),
     Position = UDim2.new(0,12,0,8),
     BackgroundTransparency = 1,
-    Text = "Lâm Vĩ Hub™ — Misc",
+    Text = "DucLuong™ — Test",
     TextColor3 = Color3.fromRGB(240,240,240),
     Font = Enum.Font.GothamBold,
     TextSize = 18,
